@@ -4,6 +4,7 @@
 Implementation of Pseudorandom Number Generation Using Standard library
 
 # ALGORITHM:
+
 1.Start the program and import the required libraries.
 
 2.Seed the random number generator using the random.randint(min,max)
